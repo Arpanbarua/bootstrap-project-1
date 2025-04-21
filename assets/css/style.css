@@ -71,3 +71,8 @@ nav
     border: none;
     color: white;
 }
+
+#footer a:hover
+{
+    color: #4CAF4F;
+}
