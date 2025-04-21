@@ -1,0 +1,73 @@
+body
+{
+    font-family: "Roboto", sans-serif ;
+}
+
+.list1
+{
+    
+    font-size: 1.2rem;
+    font-weight: bold
+}
+
+.btn-style 
+{
+    font-family: "Roboto", sans-serif ;
+    font-size: 1.2rem;
+    font-weight: bold;
+    /* line-height: 100%; */
+}
+
+nav 
+{
+    padding: 20px 0;
+}
+
+.nav-item a:hover 
+{
+    background-color: #FFAE4F;
+    border-radius: 10px;
+}
+
+.card{
+    background: #fff;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.card p .star
+{
+  color: #FFAE4F;   
+}
+
+#footer
+{
+    font-family: "Poppins", sans-serif;
+    color: white;
+    background: #403532;
+    padding: 64px 0;
+}
+
+.quick-links
+{
+    padding-top: 5px;
+}
+
+.quick-links a
+{
+    text-decoration: none;
+    color: lightgrey;
+    
+}
+
+.quick-links li 
+{
+    margin: 20px 0;
+}
+
+#footer .hovered:hover
+{
+    background: #FF1E1E;
+    border: none;
+    color: white;
+}
